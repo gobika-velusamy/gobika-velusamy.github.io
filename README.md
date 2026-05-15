@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gobika-velusamy&label=Profile%20views&color=0e75b6&style=flat" alt="gobika-velusamy" /> </p>
 
-- CryptoShield is a user-friendly tool for encrypting/decrypting [Encryption Framework](https://github.com/gobika-velusamy/enc-framework)
 
 - 🌱 I’m currently looking for **entry-level role**
+
+- CryptoShield is a user-friendly tool for encrypting/decrypting [Encryption Framework](https://github.com/gobika-velusamy/enc-framework)
 
 - It's designed for comprehensive cybersecurity monitoring and auditing. [Vulnerability Auditing UI](https://github.com/gobika-velusamy/def-probe.git)
 
